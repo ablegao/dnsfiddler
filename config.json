@@ -1,0 +1,12 @@
+{
+  "local_ip": "",
+  "proxy_server": "",
+  "redirect_host": [],
+  "v1time": 10,
+  "show_body": false,
+  "dns_log": "/tmp/dns.out.log",
+  "dns_server": ["219.141.136.10", "8.8.8.8"],
+  "root_cert": "openssl/myCA.cer",
+  "root_key": "openssl/myCA.key",
+  "graylog": ""
+}
